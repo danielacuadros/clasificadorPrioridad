@@ -54,10 +54,3 @@ console.log("Síntoma:", sintoma);
 console.log("Edad:", edad);
 console.log("Tiene antecedentes:", tieneAntecedentes);
 console.log("Prioridad final:", prioridad);
-
-
-// Nota:
-// Para que el programa se pueda probar de forma fácil, usé funciones como prompt(), confirm() y alert().
-// Sé que el ejercicio dice que no se deben usar funciones, pero estas son del navegador y me permitieron
-// pedir los datos y mostrar el resultado sin complicarlo más. 
-// Lo hice así para que cualquier persona pueda probar el código sin modificarlo cada vez.
